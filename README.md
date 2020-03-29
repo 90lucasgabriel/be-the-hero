@@ -57,10 +57,6 @@ cd backend
 ```
 npm install
 ```
-- Create database and run migrations
-```
-npx knex migrate:latest
-```
 - Run
 ```
 npm start
@@ -68,6 +64,11 @@ npm start
 - Access (Postman or Insomnia)
 ```
 localhost:3333
+```
+- Reset database content (optional)
+```
+npx knex migrate:rollback
+npx knex migrate:latest
 ```
 
 ### 3.3. ONGs Admin (Frontend) :computer:
