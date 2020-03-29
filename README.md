@@ -21,6 +21,7 @@ Omni Stack 11 is an event promoved by [Rockeseat](https://rocketseat.com.br/) _[
 
 | ![Web](/.github/web.png) | ![Mobile](/.github/mobile.png) |
 |--|--|
+
 _Figure 1.1 - Web and Mobile screenshots._
 </div>
 
