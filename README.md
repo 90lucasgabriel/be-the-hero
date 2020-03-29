@@ -19,7 +19,7 @@ Omni Stack 11 is an event promoved by [Rockeseat](https://rocketseat.com.br/) _[
 
 <div align="center">
 
-| ![Web](/.github/web.png =600x) | ![Mobile](/.github/mobile.png =350x) |
+| ![Web](/.github/web.png) | ![Mobile](/.github/mobile.png) |
 |--|--|
 _Figure 1.1 - Web and Mobile screenshots._
 </div>
@@ -29,9 +29,9 @@ _Figure 1.1 - Web and Mobile screenshots._
 
 ## 2. Technologies
 - [Node.js](https://nodejs.org/en/) _[2]_
-- [React](https://reactjs.org/)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
+- [React](https://reactjs.org/) _[3]_
+- [React Native](https://facebook.github.io/react-native/) _[4]_
+- [Expo](https://expo.io/) _[5]_
 
 
 
