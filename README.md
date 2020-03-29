@@ -2,7 +2,7 @@
     <img alt="BeTheHero" title="#bethehero" src=".github/logo.svg" width="200px" />
 </div>
 
-## Sumary
+## Summary
   - [1. Introduction](#1-introduction)
   - [2. Technologies](#2-technologies)
   - [3. Installing and Running](#3-installing-and-running)
