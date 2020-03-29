@@ -7,9 +7,9 @@
   - [2. Technologies](#2-technologies)
   - [3. Installing and Running](#3-installing-and-running)
     - [3.1. Introduction](#31-introduction)
-    - [3.2. Server (Backend)](#32-server-backend)
-    - [3.3. ONGs Admin (Frontend)](#33-ongs-admin-frontend)
-    - [3.4. Heroes (Mobile)](#34-heroes-mobile)
+    - [3.2. API (Backend)](#32-api-backend-cloud)
+    - [3.3. ONGs Admin (Frontend)](#33-ongs-admin-frontend-computer)
+    - [3.4. Heroes (Mobile)](#34-heroes-mobile-iphone)
   - [4. References](#4-references)
 
 
@@ -45,7 +45,7 @@ _Figure 1.1 - Web and Mobile screenshots._
 git clone git@github.com:90lucasgabriel/be-the-hero.git
 ```
 
-### 3.2. Server (Backend)
+### 3.2. API (Backend) :cloud:
 - Access directory:
 ```
 cd backend
@@ -67,8 +67,8 @@ npm start
 localhost:3333
 ```
 
-### 3.3. ONGs Admin (Frontend)
-- Make sure the [Server (Backend)](#32-server-backend) is running;
+### 3.3. ONGs Admin (Frontend) :computer:
+- Make sure the [API (Backend)](#32-api-backend-cloud) is running;
 - Access directory:
 ```
 cd frontend
@@ -86,8 +86,8 @@ npm start
 localhost:3000
 ```
 
-### 3.4. Heroes (Mobile)
-- Make sure the [Server (Backend)](#32-server-backend) is running;
+### 3.4. Heroes (Mobile) :iphone:
+- Make sure the [API (Backend)](#32-api-backend-cloud) is running;
 - Access directory:
 ```
 cd mobile
