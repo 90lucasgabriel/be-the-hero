@@ -105,7 +105,7 @@ npm start
 http://localhost:19002
 ```
 - Scan QR Code to run on device;
-- Or select an option to option to run on emulator;
+- Or select an option to run on emulator;
 
 
 ## 4. References
