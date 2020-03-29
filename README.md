@@ -42,7 +42,7 @@ _Figure 1.1 - Web and Mobile screenshots._
 ### 3.1. Introduction
 - Clone this repo:
 ```
-git clone git@github.com:90lucasgabriel/omnistack11.git
+git clone git@github.com:90lucasgabriel/be-the-hero.git
 ```
 
 ### 3.2. Server (Backend)
