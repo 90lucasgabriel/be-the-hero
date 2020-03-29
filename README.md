@@ -1,5 +1,7 @@
 <div align="center">
-    <img alt="BeTheHero" title="#bethehero" src=".github/logo.svg" width="200px" />
+    <img alt="BeTheHero" title="#bethehero" src=".github/logo.svg" width="150px" />
+
+![Web](/.github/mockup.png)
 </div>
 
 ## Summary
@@ -15,14 +17,9 @@
 
 
 ## 1. Introduction
-Omni Stack 11 is an event promoved by [Rockeseat](https://rocketseat.com.br/) _[1]_. This application list problems created by a non-governmental organizations (ONGs) and big heroes can help them _(Figure 1.1)_.
+Omni Stack 11 is an event promoved by [Rockeseat](https://rocketseat.com.br/) _[1]_. This application list problems created by a non-governmental organizations (ONGs) and big heroes can help them.
 
 <div align="center">
-
-| ![Web](/.github/web.png) | ![Mobile](/.github/mobile.png) |
-|--|--|
-
-_Figure 1.1 - Web and Mobile screenshots._
 
 https://youtu.be/aN1hqTngqWc
 
