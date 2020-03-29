@@ -68,6 +68,7 @@ localhost:3333
 ```
 
 ### 3.3. ONGs Admin (Frontend)
+- Make sure the [Server (Backend)](#32-Server-(Backend)) is running;
 - Access directory:
 ```
 cd frontend
@@ -86,6 +87,7 @@ localhost:3000
 ```
 
 ### 3.4. Heroes (Mobile)
+- Make sure the [Server (Backend)](#32-Server-(Backend)) is running;
 - Access directory:
 ```
 cd mobile
