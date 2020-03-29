@@ -24,6 +24,8 @@ Omni Stack 11 is an event promoved by [Rockeseat](https://rocketseat.com.br/) _[
 
 _Figure 1.1 - Web and Mobile screenshots._
 
+https://youtu.be/aN1hqTngqWc
+
 [![](http://img.youtube.com/vi/aN1hqTngqWc/0.jpg)](http://www.youtube.com/watch?v=aN1hqTngqWc "Installing and Running video demo.")
 
 _Installing and Running video demo._
