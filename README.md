@@ -17,7 +17,7 @@
 
 
 ## 1. Introduction
-Omni Stack 11 is an event promoved by [Rockeseat](https://rocketseat.com.br/) _[1]_. This application list problems created by a non-governmental organizations (ONGs) and big heroes can help them.
+This application lists problems created by a non-governmental organizations and heroes can help them. It was developed at Omni Stack 11, an event promoted by [Rockeseat](https://rocketseat.com.br/) _[1]_. 
 
 <div align="center">
 
